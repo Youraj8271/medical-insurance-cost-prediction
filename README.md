@@ -82,7 +82,6 @@ streamlit run src/step4_streamlit_app.py
 ✅ Completed: Full pipeline implemented
 🧠 Includes data cleaning, EDA, model training, deployment, experiment tracking
 🛠️ Open to improvements and scaling
-📎 [Click here to view the complete Project Report (PDF)](project_report.pdf)
 
 
 
