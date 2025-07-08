@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/pujaa/OneDrive/Desktop/DS_Medical%20Insurance%20Cost%20Prediction/mlruns/720989490899538568/models/m-cbbbde4a7dea4fe5a06508063288a918/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-cbbbde4a7dea4fe5a06508063288a918
+model_size_bytes: 649
+model_uuid: m-cbbbde4a7dea4fe5a06508063288a918
+prompts: null
+run_id: 1fd64a021af546bf815530bb91aaf88d
+utc_time_created: '2025-07-08 05:31:34.022441'

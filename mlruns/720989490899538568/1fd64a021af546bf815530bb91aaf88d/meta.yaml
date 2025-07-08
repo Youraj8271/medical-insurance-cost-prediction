@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pujaa/OneDrive/Desktop/DS_Medical%20Insurance%20Cost%20Prediction/mlruns/720989490899538568/1fd64a021af546bf815530bb91aaf88d/artifacts
+end_time: 1751952704706
+entry_point_name: ''
+experiment_id: '720989490899538568'
+lifecycle_stage: active
+run_id: 1fd64a021af546bf815530bb91aaf88d
+run_name: indecisive-seal-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751952693728
+status: 3
+tags: []
+user_id: pujaa

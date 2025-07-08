@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/pujaa/OneDrive/Desktop/DS_Medical%20Insurance%20Cost%20Prediction/mlruns/720989490899538568/models/m-cbbbde4a7dea4fe5a06508063288a918/artifacts
+creation_timestamp: 1751952693932
+experiment_id: '720989490899538568'
+last_updated_timestamp: 1751952704677
+model_id: m-cbbbde4a7dea4fe5a06508063288a918
+model_type: null
+name: model
+source_run_id: 1fd64a021af546bf815530bb91aaf88d
+status: 2
+status_message: null
